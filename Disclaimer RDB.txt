@@ -1,0 +1,71 @@
+DATA DISCLAIMER
+
+1. IMPORTANT
+
+Thank you for downloading data from the International Council for the
+Exploration of the Sea (ICES). 
+By downloading data from the ICES website you are agreeing to the terms and
+conditions of use as described in this document and any documents referred to in
+this text.
+Please read this before using the downloaded data, as this file contains
+specific information about the use of the data provided, limitations, and known
+issues. 
+This file is the counterpart to the data download with the file name: 
+[XXX FILE NAME XXX]
+Which was downloaded from https://www.rdb-fishframe.org/ the following data and
+time: [XXX Date and time XXX] 
+
+2. TERMS OF USE: DATA 
+
+The highest resolution data in Regional DataBase, RDB, data are CONFIDENTIAL AND
+CANNOT BE MADE PUBLIC AVAILABLE. Only aggregated data can be made public
+available. The rules for use of the RDB data are described in the ‘Data policy
+for the Regional Database (RDB) and Regional Database and Estimation System
+(RDBES)’, which can be found at the following link: 
+
+	https://www.ices.dk/data/Documents/Data_Policy_RDB.pdf
+
+The data policy must be read before using the RDB data.
+In the Annex 2 the ‘Use and Publication of data’ the rules are described. Below
+is a part of the text:
+
+Rules for use of data from the RDB
+The data cannot be shared with other persons outside the specific RCG or
+specific ICES Expert Group and cannot be used for other purposes than within the
+specific RCG or specific ICES Expert Group. The data can be stored at the RCG’s
+or ICES Expert Group’s SharePoint, but must be password protected, and the chair
+must control access to the password. All persons who have a version of the data
+must delete the data after the specific RCG or specific ICES Expert Group have
+finished its work.
+Rules for showing data in public reports are also described in the Data Policy
+document, please read Annex 2.
+
+3. CONTACT INFORMATION
+
+For feedback or queries about this data download, contact ICES at:
+Email: RDBsupport@ices.dk
+Tel.:	+45 3338 6700
+
+4. DATA SPECIFIC INFORMATION
+
+Regional DataBase, RDB, is a commercial fisheries data portal used by national
+institutes to upload commercial fisheries detailed sample, aggregated landing
+and effort data. The data are uploaded by relevant EU member countries. Data are
+used primary used by Regional Coordinating Groups (North Atlantic and North Sea
+& Eastern Arctic, Baltic Sea, Long Distance Fisheries), but some ICES expert
+groups are also using the data for fish stock assessment. 
+For more information read the Data Policy for the RDB.
+The exchange format can be downloaded from the following link:
+
+	https://www.ices.dk/data/Documents/RDB/RDB%20Exchange%20Format.pdf 
+
+5. DATA CITATION
+
+Data sources should be acknowledged by a citation. Detailed information and
+examples of citations can be found in ICES Data Policy:
+https://ices.dk/data/guidelines-and-policy/Pages/ICES-data-policy.aspx.
+A minimum requirement citation would include the following:
+“ICES RDB dataset [YEAR]. ICES, Copenhagen”  
+Please acknowledge the data sources when using the data:
+
+
