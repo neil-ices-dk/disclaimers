@@ -18,7 +18,7 @@ time: [XXX Date and time XXX]
 2. TERMS OF USE: DATA 
 
 The highest resolution data in InterCatch are CONFIDENTIAL AND CANNOT BE MADE
-PUBLIC AVAILABLE. Only aggregated data can be made public available.
+PUBLICLY AVAILABLE. Only aggregated data can be made publicly available.
 The data can be used by any ICES fisheries management Expert Group. The data are
 owned by the countries, and they are responsible for quality and updates to
 data. Data users are obliged to inform ICES of any suspected problems in the
