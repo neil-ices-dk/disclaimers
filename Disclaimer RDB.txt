@@ -18,7 +18,7 @@ time: [XXX Date and time XXX]
 2. TERMS OF USE: DATA 
 
 The highest resolution data in Regional DataBase, RDB, data are CONFIDENTIAL AND
-CANNOT BE MADE PUBLIC AVAILABLE. Only aggregated data can be made public
+CANNOT BE MADE PUBLICLY AVAILABLE. Only aggregated data can be made publicly
 available. The rules for use of the RDB data are described in the ‘Data policy
 for the Regional Database (RDB) and Regional Database and Estimation System
 (RDBES)’, which can be found at the following link: 
@@ -51,9 +51,9 @@ Tel.:	+45 3338 6700
 Regional DataBase, RDB, is a commercial fisheries data portal used by national
 institutes to upload commercial fisheries detailed sample, aggregated landing
 and effort data. The data are uploaded by relevant EU member countries. Data are
-used primary used by Regional Coordinating Groups (North Atlantic and North Sea
+used primarily by the EU Regional Coordination Groups (North Atlantic and North Sea
 & Eastern Arctic, Baltic Sea, Long Distance Fisheries), but some ICES expert
-groups are also using the data for fish stock assessment. 
+groups also use the data. 
 For more information read the Data Policy for the RDB.
 The exchange format can be downloaded from the following link:
 
