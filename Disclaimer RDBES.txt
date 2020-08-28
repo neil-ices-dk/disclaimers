@@ -18,8 +18,8 @@ time: [XXX Date and time XXX]
 2. TERMS OF USE: DATA 
 
 The highest resolution data in Regional DataBase and Estimation System, RDBES,
-are CONFIDENTIAL DATA AND CANNOT BE MADE PUBLIC AVAILABLE. Only aggregated data
-can be made public available. The rules for use of the RDBES data are described
+are CONFIDENTIAL DATA AND CANNOT BE MADE PUBLICLY AVAILABLE. Only aggregated data
+can be made publicly available. The rules for use of the RDBES data are described
 in the ‘Data policy for the Regional Database (RDB) and Regional Database and
 Estimation System (RDBES)’, which can be found at the following link: 
 
@@ -61,7 +61,7 @@ The data model are described in tables in the following three spreadsheets
 	-	RDBES Data Model VD SL.xlsx
 	-	RDBES Data Model CL CE.xlsx
 
-The documentation of the data model documented in 
+The documentation of the data model is described in 
 
 	-	RDBES Documentation of the Data Model.docx
 
