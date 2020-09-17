@@ -20,17 +20,19 @@ Find more information at:
 Web:	https://www.ices.dk/data/Pages/default.aspx
 
 3. DATA SPECIFIC INFORMATION
-The Transparent Assessment Framework (TAF) provides access to code and input
+Fisheries overviews provides a summary of fishing activity within a
+given ICES ecoregion, the data used in each plot and table
+is made available in this zip file.
+
+Fisheries overviews are created using the Transparent Assessment 
+Framework (TAF) which provides access to code and input
 data for stock assessments and analyses conducted by ICES. A set of
 software tools (R packages) facilitates the creation and access to TAF
 repositories, and in addition all code is stored in GitHub.
 
 Users are urged to treat the data with caution. If the user has any
 queries on the validity of the data or the methods applied they should
-contact taf@ices.dk.
-
-The development of TAF within ICES is guided by the Working Group on
-the Transparent Assessment Framework Governance (WGTAFGOV).
+contact advice@ices.dk.
 
 The TAF and accossiated software is open source solution and all
 source code is publicly accessible and under various licenses.
