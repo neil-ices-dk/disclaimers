@@ -13,7 +13,7 @@ Find more information at:
 Web:	https://www.ices.dk/data/Pages/default.aspx
 
 3. DATA SPECIFIC INFORMATION
-The Vulnerable Marine EcoSystems (Underwaternoise) website (https://underwaternoise.ices.dk) provides the user with the ability to query the Underwaternoise database and download the data records.
+The Impulsive Underwater noise website (https://underwaternoise.ices.dk) provides the user with the ability to query the Underwaternoise database and download the data records.
 Download ZIP bundle includes the requested data file in the CSV format, Underwaternoise Factsheet, and the data disclaimer.  
 Data provided from the website are classified as either 'Public' or 'Restricted'. 
 Public data are covered by the ICES Data Policy, while the Restricted data are available only on the high metadata level, with special Terms of Use defined. See the next paragraph for more information. 
