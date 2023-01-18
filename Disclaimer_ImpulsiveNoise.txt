@@ -14,8 +14,7 @@ Web:	https://www.ices.dk/data/Pages/default.aspx
 
 3. DATA SPECIFIC INFORMATION
 The Impulsive Underwater Noise website (https://www.ices.dk/data/data-portals/Pages/impulsive-noise.aspx) provides the user with the ability to query the Impulsive Underwater Noise database and download the data records.
-Download ZIP bundle includes the requested data file in the CSV format and the data disclaimer.  
-Download ZIP bundle includes the requested data file in the CSV format and the data disclaimer.  
+Download ZIP bundle includes the requested data file in the CSV format and the data disclaimer.   
 Data provided from the website are classified as either 'Public' or 'Restricted'. 
 Public data are covered by the ICES Data Policy, while the Restricted data are available only on the high metadata level, with special Terms of Use defined. See the next paragraph for more information. 
 Note that additional data, such as methods and quality assurance may be available. To have access to the complete data set, the user can send a request to accessions@ices.dk, specifying the download code plus the extra information required.
