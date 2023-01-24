@@ -42,9 +42,9 @@ The downloading and installation of software from https://www.ices.dk/ is at you
 
 6. DATA CITATION
 Data sources should be acknowledged by a citation. Detailed information and examples of citations can be found in ICES Data Policy: https://ices.dk/data/guidelines-and-policy/Pages/ICES-data-policy.aspx.
-A minimum requirement citation would include the following:
-�ICES Data Portal, Dataset on NoiseData from https://data.ices.dk. ICES, Copenhagen�
-�ICES Impulsive Underwater Noise dataset [Year]. ICES, Copenhagen�
+A minimum requirement citation would include the following depending on where the data were downloaded from:
+ICES Impulsive Underwater Noise, [Year]. ICES, Copenhagen, Denmark. https://www.ices.dk/data/data-portals/Pages/impulsive-noise.aspx
+ICES Data Portal, Dataset theme: Underwater noise [Year]. ICES, Copenhagen, Denmark https://data.ices.dk. 
 
 7. METADATA
 Further details about the dataset and related services can be found at the metadata catalogue.
