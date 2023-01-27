@@ -3,6 +3,8 @@
 Thank you for downloading data from the International Council for the Exploration of the Sea (ICES). 
 By downloading data from the ICES website and sub-domains [ices.dk] you are agreeing to the terms and conditions of use as described in this document and any documents referred to in this text.
 Please read this before using the downloaded data, as this file contains specific information about the use of the data provided, limitations, and known issues. This file contains contact information regarding the origins of the data (where supplied) as well as how to cite these data in a publication or a data product. 
+This file is the counterpart to the data download with the code requested from https://www.ices.dk/data/data-portals/Pages/Continuous-Noise.aspx.
+
 
 2. CONTACT INFORMATION
 For feedback or queries about this data download, contact ICES at:
