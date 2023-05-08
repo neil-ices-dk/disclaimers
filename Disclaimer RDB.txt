@@ -19,26 +19,28 @@ time: [XXX Date and time XXX]
 
 The highest resolution data in Regional DataBase, RDB, data are CONFIDENTIAL AND
 CANNOT BE MADE PUBLICLY AVAILABLE. Only aggregated data can be made publicly
-available. The rules for use of the RDB data are described in the ‘Data policy
-for the Regional Database (RDB) and Regional Database and Estimation System
-(RDBES)’, which can be found at the following link: 
+available. The rules for use of the RDB data are described in the ‘Data use 
+License for the Regional Database (RDB) and Regional Database and Estimation 
+System (RDBES)’, which can be found at the following link: 
 
-	https://www.ices.dk/data/Documents/Data_Policy_RDB.pdf
+	https://doi.org/10.17895/ices.pub.22188157 
 
-The data policy must be read before using the RDB data.
-In the Annex 2 the ‘Use and Publication of data’ the rules are described. Below
+The data license must be read before using the RDB data.
+In the Annex 1 the ‘Use and Publication of data’ the rules are described. Below
 is a part of the text:
 
 Rules for use of data from the RDB
-The data cannot be shared with other persons outside the specific RCG or
-specific ICES Expert Group and cannot be used for other purposes than within the
-specific RCG or specific ICES Expert Group. The data can be stored at the RCG’s
-or ICES Expert Group’s SharePoint, but must be password protected, and the chair
-must control access to the password. All persons who have a version of the data
-must delete the data after the specific RCG or specific ICES Expert Group have
-finished its work.
-Rules for showing data in public reports are also described in the Data Policy
-document, please read Annex 2.
+Data shall be used only for the purposes of facilitating scientific advice, or
+other work specifically approved by the countries, and will be strictly related
+to the agreed terms of reference of the activity executed by the data user.
+Downloaded data shall be secured by appropriate safeguards, such as encryption
+and password protection of the computer on which it is held. Electronic data
+provided to the data user(s) shall not be kept on a user’s computer/database
+upon completion of the task related to the term of reference. Data users shall
+treat the data as confidential and the transmission or   sharing of   these data
+are not allowed. Data users shall ensure that visualisations or data products
+derived from the data adhere to Annex 1 of the RDBES Data Policy. Users of
+detailed data must sign the “Conditions for detailed RDBES data use” agreement. 
 
 3. CONTACT INFORMATION
 
@@ -54,10 +56,11 @@ and effort data. The data are uploaded by relevant EU member countries. Data are
 used primarily by the EU Regional Coordination Groups (North Atlantic and North Sea
 & Eastern Arctic, Baltic Sea, Long Distance Fisheries), but some ICES expert
 groups also use the data. 
-For more information read the Data Policy for the RDB.
+For more information read the Data License for the RDB/RDBES.
 The exchange format can be downloaded from the following link:
 
-	https://www.ices.dk/data/Documents/RDB/RDB%20Exchange%20Format.pdf 
+	https://www.ices.dk/data/Documents/RDB/RDB%20Exchange%20Format.pdf
+	
 
 5. DATA CITATION
 
