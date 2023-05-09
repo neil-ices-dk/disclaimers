@@ -19,7 +19,7 @@ which users may query and download.
 These data are organised in deployments. If the queried data belongs to different deployments, one file per deployment will be included in the download.
 Please note that in a single deployment there might be more data than in the download, in the case the deployment covers a greater time period than requested.
 Additional data such as methods and quality assurance may be available. To have access to the complete data set, the user can request this by specifying the provided code plus the extra information required.
-The soundscape maps were produced within the EU project BIAS LIFE11 ENV/SE/841 and also within the HELCOM BLUES project (HELCOM Biodiversity, Litter, Underwater noise and Effective regional measures for the Baltic Sea), which was o-funded by the European Union and led by HELCOM (https://blues.helcom.fi/).
+Soundscape maps (2014) were produced within the EU project BIAS LIFE11 ENV/SE/841, within the HELCOM BLUES project  (2018) (HELCOM Biodiversity, Litter, Underwater noise and Effective regional measures for the Baltic Sea), which was o-funded by the European Union and led by HELCOM (https://blues.helcom.fi/), and also within the Joint Monitoring Programme for Ambient Noise North Sea (JOMOPANS) project (2019).
 
 4. TERMS OF USE: DATA 
 ICES makes data available to users in an open, timely and easy way, but ICES remains dependent on data contributions.
