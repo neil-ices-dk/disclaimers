@@ -5,7 +5,7 @@ Thank you for downloading data from the International Council for the Exploratio
 By downloading data from the ICES website and sub-domains [ices.dk] you are agreeing to the terms and conditions of use as described in this document and any documents referred to in this text.
 Please read this before using the downloaded data, as this file contains specific information about the use of the data provided, limitations, and known issues. This file contains contact information regarding the origins of the data (where supplied) as well as how to cite these data in a publication or a data product. 
 
-This file is the counterpart to the data download with the code: 1x3kspn2lqifss4vxv3fybge13236853449461736, part of the data was downloaded on 17/06/2020 09:44:11 by IP 172.20.0.190. 
+This file is the counterpart to the data download with the code: xxxxxxxxxxxxxxxxxxxxxxxxxxx, part of the data was downloaded on dd/mm/yyyy hh:mm:ss by IP xxx.xx.x.xxx. 
 
 2. CONTACT INFORMATION
 For feedback or queries about this data download, contact ICES at:
@@ -13,7 +13,7 @@ Email: eggsandlarvae@ices.dk
 
 Tel.:	+45 3338 6700
 Find more information at:
-Web:	https://www.ices.dk/marine-data/Pages/default.aspx
+Web:	https://www.ices.dk/data/Pages/default.aspx
 
 
 3. DATA SPECIFIC INFORMATION
@@ -33,7 +33,7 @@ ICES makes data available to users in an open, timely and easy way, but ICES rem
  - Data Users are obliged to inform ICES of any suspected problems in the data.
  - Data Users are encouraged to inform ICES of possible sources of other relevant data.
  The full ICES data policy and terms of use can be viewed at:
- https://ices.dk/data/guidelines-and-policy/Pages/ICES-data-policy.aspx. 
+https://www.ices.dk/data/guidelines-and-policy/Pages/ICES-data-policy.aspx 
 Data held at ICES are used for various assessments and working group purposes. The data guidelines and procedures for these can be viewed at: 
 https://ices.dk/data/guidelines-and-policy/Pages/default.aspx
 
