@@ -22,7 +22,7 @@ Email: DatrasAdministration@ices.dk
 Tel.:	+45 3338 6700
 
 Find more information at:
-Web:	https://www.ices.dk/data/data-portals/Pages/DATRAS.aspx
+Web:	https://www.ices.dk/data/Pages/default.aspx
 
 
 3. DATA SPECIFIC INFORMATION
