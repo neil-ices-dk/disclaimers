@@ -81,7 +81,7 @@ The full ICES data policy and terms of use can be viewed at:
 https://www.ices.dk/data/guidelines-and-policy/Pages/ICES-data-policy.aspx 
 
 Data held at ICES are used for various assessments and working group purposes. The data guidelines and procedures for these can be viewed at: 
-https://www.ices.dk/data/guidelines-and-policy/Pages/ICES-data-policy.aspx 
+https://www.ices.dk/data/guidelines-and-policy/Pages/default.aspx 
 
 
 5. DATA ACKNOWLEDGMENT
