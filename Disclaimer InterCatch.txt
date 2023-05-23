@@ -61,7 +61,7 @@ The exchange format can be downloaded from the following link:
 
 Data sources should be acknowledged by a citation. Detailed information and
 examples of citations can be found in ICES Data Policy:
-https://ices.dk/data/guidelines-and-policy/Pages/ICES-data-policy.aspx.
+https://www.ices.dk/data/guidelines-and-policy/Pages/default.aspx
 A minimum requirement citation would include the following:
 “ICES InterCatch dataset [YEAR]. ICES, Copenhagen”  
 Please acknowledge the data sources when using the data:
