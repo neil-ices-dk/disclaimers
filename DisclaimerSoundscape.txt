@@ -9,7 +9,7 @@ For feedback or queries about this data download, contact ICES at:
 Email: accessions@ices.dk
 Tel.:	+45 3338 6700
 Find more information at:
-Web:	https://www.ices.dk/marine-data/Pages/default.aspx
+Web:	https://www.ices.dk/data/Pages/default.aspx
 
 3. DATA SPECIFIC INFORMATION
 The Continuous Underwater Noise database hosts continuous low frequency sound monitored under the HELCOM programme in the Baltic sea, 
@@ -31,6 +31,7 @@ ICES makes data available to users in an open, timely and easy way, but ICES rem
  https://ices.dk/marine-data/guidelines-and-policy/Pages/ICES-data-policy.aspx. 
 Data held at ICES are used for various assessments and working group purposes. The data guidelines and procedures for these can be viewed at: 
 https://ices.dk/marine-data/guidelines-and-policy/Pages/default.aspx
+
 5. TERMS OF USE: SOFTWARE 
 Software is available for use from the ICES website that is provided as an aid for data users to work with, analyse and convert data: 
 https://ices.dk/marine-data/tools/Pages/Software.aspx
