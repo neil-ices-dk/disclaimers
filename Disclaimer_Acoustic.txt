@@ -29,7 +29,7 @@ Data format documentation can be found at:
 https://www.ices.dk/data/Documents/Acoustic/ICES_Acoustic_data_format_description.zip
 
 SISP 4. A metadata convention for processed acoustic data from active acoustic systems (2016):
-https://bit.ly/2djpA1P
+https://doi.org/10.17895/ices.pub.7434
 
 
 4. TERMS OF USE: DATA 
@@ -41,7 +41,7 @@ https://bit.ly/2djpA1P
 - You are requested to inform ICES of any suspected problems in the data.
 
 The full ICES data policy and terms of use can be viewed at:
-https://ices.dk/data/guidelines-and-policy/Pages/ICES-data-policy.aspx. 
+https://ices.dk/data/guidelines-and-policy/Pages/ICES-data-policy.aspx 
 Data held at ICES are used for various assessments and working group purposes. The data guidelines and procedures for these can be viewed at: 
 https://ices.dk/data/guidelines-and-policy/Pages/default.aspx
 
