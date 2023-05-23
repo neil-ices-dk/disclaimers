@@ -22,7 +22,7 @@ Email: DatrasAdministration@ices.dk
 Tel.:	+45 3338 6700
 
 Find more information at:
-Web:	https://www.ices.dk/marine-data/Pages/default.aspx
+Web:	https://www.ices.dk/data/data-portals/Pages/DATRAS.aspx
 
 
 3. DATA SPECIFIC INFORMATION
@@ -78,10 +78,10 @@ ICES makes data available to users in an open, timely and easy way, but ICES rem
  - Data Users are encouraged to inform ICES of possible sources of other relevant data.
  
 The full ICES data policy and terms of use can be viewed at:
-https://ices.dk/marine-data/guidelines-and-policy/Pages/ICES-data-policy.aspx. 
+https://www.ices.dk/data/guidelines-and-policy/Pages/ICES-data-policy.aspx 
 
 Data held at ICES are used for various assessments and working group purposes. The data guidelines and procedures for these can be viewed at: 
-https://ices.dk/marine-data/guidelines-and-policy/Pages/default.aspx
+https://www.ices.dk/data/guidelines-and-policy/Pages/ICES-data-policy.aspx 
 
 
 5. DATA ACKNOWLEDGMENT
