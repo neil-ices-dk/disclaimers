@@ -23,16 +23,21 @@ Soundscape maps (2014) were produced within the EU project BIAS LIFE11 ENV/SE/84
 
 4. TERMS OF USE: DATA 
 ICES makes data available to users in an open, timely and easy way, but ICES remains dependent on data contributions.
- - Correct and appropriate data interpretation is solely the responsibility of data users.
- - Data Users must not expressly or otherwise imply ICES substantiation of their work, results, conclusions and/or recommendations.
- - Data sources must be duly acknowledged.
- - Data Users must respect any and all restrictions on the use or reproduction of data such as restrictions on use for commercial purposes.
- - Data Users are obliged to inform ICES of any suspected problems in the data.
- - Data Users are encouraged to inform ICES of possible sources of other relevant data.
- The full ICES data policy and terms of use can be viewed at:
- https://ices.dk/marine-data/guidelines-and-policy/Pages/ICES-data-policy.aspx. 
-Data held at ICES are used for various assessments and working group purposes. The data guidelines and procedures for these can be viewed at: 
-https://ices.dk/marine-data/guidelines-and-policy/Pages/default.aspx
+Data provided from the website are classified as'Public'.
+Public data are covered by the Creative Commons (CC BY 4.0) open access data license. 
+ https://creativecommons.org/licenses/by/4.0 
+Please note:
+- All data products are by default publicly available, including those derived from restricted data.
+- Correct and appropriate data interpretation is solely the responsibility of data users.
+- Data Users must not expressly or otherwise imply ICES substantiation or endorsement of their work, results, conclusions and/or recommendations.
+- Data sources must be duly acknowledged.
+- Data Users must respect any and all restrictions on the use or reproduction of data such as restrictions on use for commercial purposes.
+- Data Users are obliged to inform ICES of any suspected problems in the data.
+- Data Users are encouraged to inform ICES of possible sources of other relevant data.
+The full ICES data policy and terms of use can be viewed at:
+https://ices.dk/data/guidelines-and-policy/pages/ices-data-policy.aspx.
+Data held at ICES are used for various assessments and working group purposes. The data guidelines and procedures for these can be viewed at:
+https://ices.dk/data/guidelines-and-policy/pages/default.aspx
 
 5. TERMS OF USE: SOFTWARE 
 Software is available for use from the ICES website that is provided as an aid for data users to work with, analyse and convert data: 
@@ -43,9 +48,9 @@ The downloading and installation of software from https://www.ices.dk/ is at you
 6. DATA CITATION
 Data sources should be acknowledged by a citation. Detailed information and examples of citations can be found in ICES Data Policy: https://ices.dk/marine-data/guidelines-and-policy/Pages/ICES-data-policy.aspx.
 Please acknowledge the following data source when using the data:
-“ICES Continuous Underwater Noise  dataset [YEAR]. ICES, Copenhagen”  
+“Continuous Noise  database [YEAR]. ICES, Copenhagen”  
 
 7. METADATA
 Further details about the dataset and related services can be found at the metadata catalogue.
-ICES Datasets: https://gis.ices.dk/geonetwork/srv/eng/catalog.search#/search?facet.q=type%2Fdataset%26orgName%2FICES
-Services: https://gis.ices.dk/geonetwork/srv/eng/catalog.search#/search?facet.q=type%2Fservice
+ICES Datasets:  https://gis.ices.dk/geonetwork/srv/eng/catalog.search#/search?query_string=%7B%22groupOwner%22:%7B%2210%22:true%7D,%22resourceType%22:%7B%22dataset%22:true%7D%7D
+ICES Services: https://gis.ices.dk/geonetwork/srv/eng/catalog.search#/search?query_string=%7B%22groupOwner%22:%7B%2210%22:true%7D,%22resourceType%22:%7B%22service%22:true%7D%7D
