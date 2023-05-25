@@ -25,20 +25,24 @@ Note that additional data, such as methods and quality assurance may be availabl
 
 
 4. TERMS OF USE: DATA 
-By maximizing the availability of data to the community at large, ICES promotes the use of these data, thereby ensuring that their maximum value can be realized and thus contribute to an increased understanding of the marine environment.
-
+ICES makes data available to users in an open, timely and easy way, but ICES remains dependent on data contributions.
+Data provided from the website are classified as either 'Public' or 'Restricted’.
+Public data are covered by the Creative Commons (CC BY 4.0) open access data license. 
+ https://creativecommons.org/licenses/by/4.0 
+Restricted data are available only on the high metadata level, with special Terms of Use defined in the biodiversity license. 
+ https://doi.org/10.17895/ices.pub.9302
+Please note:
+- All data products are by default publicly available, including those derived from restricted data.
+- Correct and appropriate data interpretation is solely the responsibility of data users.
+- Data Users must not expressly or otherwise imply ICES substantiation or endorsement of their work, results, conclusions and/or recommendations.
+- Data sources must be duly acknowledged.
+- Data Users must respect any and all restrictions on the use or reproduction of data such as restrictions on use for commercial purposes.
+- Data Users are obliged to inform ICES of any suspected problems in the data.
+- Data Users are encouraged to inform ICES of possible sources of other relevant data.
 The full ICES data policy and terms of use can be viewed at:
- https://ices.dk/data/guidelines-and-policy/Pages/ICES-data-policy.aspx.
-
-Data provided from the website are classified as either 'Public' or 'Restricted: 
- Public data are covered by the CC BY 4.0 open access data license.
-   https://creativecommons.org/licenses/by/4.0
- Restricted data are available only on the high metadata level, with special Terms of Use defined in the biodiversity license.
-   https://doi.org/10.17895/ices.pub.9302 
-   
-Data held at ICES are used for various assessments and working group purposes. The data guidelines and procedures for these can be viewed at: 
- https://ices.dk/data/guidelines-and-policy/Pages/default.aspx
-Data obtained from web services are covered by the same Terms of Use.
+https://ices.dk/data/guidelines-and-policy/pages/ices-data-policy.aspx.
+Data held at ICES are used for various assessments and working group purposes. The data guidelines and procedures for these can be viewed at:
+https://ices.dk/data/guidelines-and-policy/pages/default.aspx
  
 
 5. TERMS OF USE: SOFTWARE 
@@ -60,5 +64,5 @@ CITATIONSXXXXXXXXXXXXXXXXXXXX
 
 7. METADATA
 Further details about the dataset and related services can be found at the metadata catalogue.
- Citeable metadata records: https://gis.ices.dk/geonetwork/srv/eng/catalog.search#/metadata/f7b9234a-8f9c-4db3-bcd3-898952b5cd9a
- Services: https://cetaceans.ices.dk/webservices
+ICES Datasets:  https://gis.ices.dk/geonetwork/srv/eng/catalog.search#/search?query_string=%7B%22groupOwner%22:%7B%2210%22:true%7D,%22resourceType%22:%7B%22dataset%22:true%7D%7D
+ICES Services: https://gis.ices.dk/geonetwork/srv/eng/catalog.search#/search?query_string=%7B%22groupOwner%22:%7B%2210%22:true%7D,%22resourceType%22:%7B%22service%22:true%7D%7D
