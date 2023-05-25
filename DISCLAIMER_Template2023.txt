@@ -8,6 +8,7 @@ Note 4. In Sections 1 and 6, similarly to the current template, some references 
 	Download-specific references are: 'LAYERNAMEXXX', 'DATETIMEXXX', and 'AcknowledgeXXX'
 ---------delete this line and everything above it----------
 DATA DISCLAIMER
+
 1. IMPORTANT
 Thank you for downloading data from the International Council for the Exploration of the Sea (ICES). 
 By downloading data from the ICES website and sub-domains [ices.dk] you are agreeing to the terms and conditions of use as described in this document and any documents referred to in this text.
