@@ -21,11 +21,9 @@ ICES Spatial datasets are freely available for download from https://gis.ices.dk
 4. TERMS OF USE: DATA 
 
 ICES makes data available to users in an open, timely and easy way, but ICES remains dependent on data contributions.
-Data provided from the website are classified as either 'Public' or 'Restricted’.
+Data provided from the website are classified as 'Public'.
 Public data are covered by the Creative Commons (CC BY 4.0) open access data license. 
  https://creativecommons.org/licenses/by/4.0 
-Restricted data are available only on the high metadata level, with special Terms of Use defined in the biodiversity license. 
- https://doi.org/10.17895/ices.pub.9302
 Please note:
 - All data products are by default publicly available, including those derived from restricted data.
 - Correct and appropriate data interpretation is solely the responsibility of data users.
