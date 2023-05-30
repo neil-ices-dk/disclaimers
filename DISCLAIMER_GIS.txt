@@ -51,7 +51,7 @@ The downloading and installation of software from https://www.ices.dk/ is at you
 Data sources should be acknowledged by a citation. Detailed information and examples of citations can be found in ICES Data Policy: https://ices.dk/marine-data/guidelines-and-policy/Pages/ICES-data-policy.aspx.
 
 A minimum requirement citation would include the following:
-“ICES Spatial Facility, ICES, Copenhagen.”  
+“YEAR. ICES Spatial Facility, ICES, Copenhagen, Denmark. https:\\gis.ices.dk”  
 
 
 7. METADATA
