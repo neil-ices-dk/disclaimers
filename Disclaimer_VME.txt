@@ -22,18 +22,23 @@ Note that additional data, such as methods and quality assurance may be availabl
 
 4. TERMS OF USE: DATA 
 ICES makes data available to users in an open, timely and easy way, but ICES remains dependent on data contributions.
-Correct and appropriate data interpretation is solely the responsibility of data users.
- - Data Users must not expressly or otherwise imply ICES substantiation of their work, results, conclusions and/or recommendations.
- - Data sources must be duly acknowledged.
- - Data Users must respect any and all restrictions on the use or reproduction of data such as restrictions on use for commercial purposes.
- - Data Users are obliged to inform ICES of any suspected problems in the data.
- - Data Users are encouraged to inform ICES of possible sources of other relevant data.
- - Data marked Public are covered by the ICES Data Policy. The full ICES data policy and terms of use can be viewed at:
-https://ices.dk/data/guidelines-and-policy/Pages/ICES-data-policy.aspx.
- - Data classified as Restricted by the data provider have special conditions of use. Only high level metadata are available for download. Where available, the Responsible Organisation and Point of Contact is provided for each record, to enable the Data User to send relevant enqueries to the Point of Contact. More information can be requested from accessions@ices.dk.
- - Data held at ICES are used for various assessments and working group purposes. The data guidelines and procedures for these can be viewed at: 
-https://ices.dk/data/guidelines-and-policy/Pages/default.aspx
- - Data obtained from web services are covered by the same Terms of Use.
+Data provided from the website are classified as either 'Public' or 'Restricted’.
+Public data are covered by the Creative Commons (CC BY 4.0) open access data license. 
+ https://creativecommons.org/licenses/by/4.0 
+Restricted data are available only on the high metadata level, with special Terms of Use defined in the biodiversity license. 
+ https://doi.org/10.17895/ices.pub.9302
+Please note:
+- All data products are by default publicly available, including those derived from restricted data.
+- Correct and appropriate data interpretation is solely the responsibility of data users.
+- Data Users must not expressly or otherwise imply ICES substantiation or endorsement of their work, results, conclusions and/or recommendations.
+- Data sources must be duly acknowledged.
+- Data Users must respect any and all restrictions on the use or reproduction of data such as restrictions on use for commercial purposes.
+- Data Users are obliged to inform ICES of any suspected problems in the data.
+- Data Users are encouraged to inform ICES of possible sources of other relevant data.
+The full ICES data policy and terms of use can be viewed at:
+https://ices.dk/data/guidelines-and-policy/pages/ices-data-policy.aspx.
+Data held at ICES are used for various assessments and working group purposes. The data guidelines and procedures for these can be viewed at:
+https://ices.dk/data/guidelines-and-policy/pages/default.aspx
 
 5. TERMS OF USE: SOFTWARE 
 Software is available for use from the ICES website that is provided as an aid for data users to work with, analyse and convert data: 
@@ -44,7 +49,7 @@ The downloading and installation of software from https://www.ices.dk/ is at you
 6. DATA CITATION
 Data sources should be acknowledged by a citation. Detailed information and examples of citations can be found in ICES Data Policy: https://ices.dk/data/guidelines-and-policy/Pages/ICES-data-policy.aspx.
 A minimum requirement citation would include the following:
-“ICES VME Dataset 2020. ICES, Copenhagen”
+“ICES VME Dataset, YEAR. ICES, Copenhagen, Denmark. https://vme.ices.dk”
 Please acknowledge the following data sources when using the data:
 Bartlett
  CEFAS
@@ -77,6 +82,6 @@ Bartlett
 
 7. METADATA
 Further details about the dataset and related services can be found at the metadata catalogue.
-ICES Datasets: https://gis.ices.dk/geonetwork/srv/eng/catalog.search#/search?facet.q=type%2Fdataset%26orgName%2FICES
+ICES Datasets: https://gis.ices.dk/geonetwork/srv/eng/catalog.search#/search?query_string={"groupOwner":{"10":true},"resourceType":{"dataset":true}}
+ICES Services: https://gis.ices.dk/geonetwork/srv/eng/catalog.search#/search?query_string={"groupOwner":{"10":true},"resourceType":{"service":true}}
 VME Dataset: https://gis.ices.dk/geonetwork/srv/metadata/50051026-435d-4554-9692-4cb2f62ab5f9
-Services: https://gis.ices.dk/geonetwork/srv/eng/catalog.search#/search?facet.q=type%2Fservice

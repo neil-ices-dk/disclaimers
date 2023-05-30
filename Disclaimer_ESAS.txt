@@ -15,7 +15,6 @@ LAYERNAMEXXX, requested from https://esas.ices.dk on DATETIMEXXX.
 For feedback or queries about this data download, contact ICES at:
 - Email: accessions@ices.dk
 - Tel.:	+45 3338 6700
-
 Find more information at:
 - Web:	https://www.ices.dk/data/Pages/default.aspx
 
@@ -30,17 +29,24 @@ Please consult the ESAS landing page for further information: https://esas.ices.
 
 4. TERMS OF USE: DATA
 
-By maximizing the availability of data to the community at large, ICES promotes the use of these data, thereby ensuring that their maximum value can be realized and thus contribute to an increased understanding of the marine environment.
-
-The full ICES data policy and terms of use can be viewed at: https://ices.dk/data/guidelines-and-policy/Pages/ICES-data-policy.aspx
-
-Data provided from the website are classified as either 'Public' or 'Restricted': 
-- Public data are covered by the CC BY 4.0 open access data license: https://creativecommons.org/licenses/by/4.0
-- Restricted data are available only on the high metadata level, with special Terms of Use defined in the biodiversity license: https://doi.org/10.17895/ices.pub.9302 
-   
-Data held at ICES are used for various assessments and working group purposes.
-The data guidelines and procedures for these can be viewed at: https://ices.dk/data/guidelines-and-policy/Pages/default.aspx
-Data obtained from web services are covered by the same Terms of Use.
+ICES makes data available to users in an open, timely and easy way, but ICES remains dependent on data contributions.
+Data provided from the website are classified as either 'Public' or 'Restricted’.
+Public data are covered by the Creative Commons (CC BY 4.0) open access data license. 
+ https://creativecommons.org/licenses/by/4.0 
+Restricted data are available only on the high metadata level, with special Terms of Use defined in the biodiversity license. 
+ https://doi.org/10.17895/ices.pub.9302
+Please note:
+- All data products are by default publicly available, including those derived from restricted data.
+- Correct and appropriate data interpretation is solely the responsibility of data users.
+- Data Users must not expressly or otherwise imply ICES substantiation or endorsement of their work, results, conclusions and/or recommendations.
+- Data sources must be duly acknowledged.
+- Data Users must respect any and all restrictions on the use or reproduction of data such as restrictions on use for commercial purposes.
+- Data Users are obliged to inform ICES of any suspected problems in the data.
+- Data Users are encouraged to inform ICES of possible sources of other relevant data.
+The full ICES data policy and terms of use can be viewed at:
+https://ices.dk/data/guidelines-and-policy/pages/ices-data-policy.aspx.
+Data held at ICES are used for various assessments and working group purposes. The data guidelines and procedures for these can be viewed at:
+https://ices.dk/data/guidelines-and-policy/pages/default.aspx
 
 5. TERMS OF USE: SOFTWARE
 
@@ -54,9 +60,9 @@ ICES accepts no responsibility for the correct functioning and operation of soft
 
 Data sources should be acknowledged by a citation.
 Detailed information and examples of citations can be found in the ICES Data Policy: https://ices.dk/data/guidelines-and-policy/Pages/ICES-data-policy.aspx
-The recommended citation is:
+A minimum requirement citation would include the following:
 
-European Seabirds At Sea (ESAS) (2022). ICES, Copenhagen. https://esas.ices.dk
+European Seabirds At Sea (ESAS) dataset, YEAR. ICES, Copenhagen, Denmark. https://esas.ices.dk
 
 If the download is predominantly from one or two data providers, please acknowledge them directly as well.
 The following data providers contributed to the download:
@@ -64,10 +70,11 @@ The following data providers contributed to the download:
 CITATIONSXXXXXXXXXXXXXXXXXXXX
 
 7. METADATA
-
 Further details about the dataset and related services can be found at the metadata catalogue.
-- Citeable metadata record: http://gis.ices.dk/geonetwork/srv/eng/catalog.search#/metadata/7a6151e4-812b-4455-97a2-74c5102d418f
-- Services (API): https://esas.ices.dk/webservices
+ICES Datasets: https://gis.ices.dk/geonetwork/srv/eng/catalog.search#/search?query_string={"groupOwner":{"10":true},"resourceType":{"dataset":true}}
+ICES Services: https://gis.ices.dk/geonetwork/srv/eng/catalog.search#/search?query_string={"groupOwner":{"10":true},"resourceType":{"service":true}}
+ESAS Dataset: https://gis.ices.dk/geonetwork/srv/eng/catalog.search#/metadata/7a6151e4-812b-4455-97a2-74c5102d418f
+ESAS Services (API): https://esas.ices.dk/webservices
 
 
 
