@@ -4,20 +4,17 @@ Thank you for downloading data from the International Council for the Exploratio
 By downloading data from the ICES website and sub-domains [ices.dk] you are agreeing to the terms and conditions of use as described in this document and any documents referred to in this text.
 Please read this before using the downloaded data, as this file contains specific information about the use of the data provided, limitations, and known issues. This file contains contact information regarding the origins of the data (where supplied) as well as how to cite these data in a publication or a data product. 
 
-This file is the counterpart to the data download with the code: 
-p1p0pfay3vhm32normpc1ac1132373806638149933121181, 
-part of the data was downloaded on 23/06/2020 12:11:04 by IP 172.20.0.190. 
 
 2. CONTACT INFORMATION
 For feedback or queries about this data download, contact ICES at:
 Email: accessions@ices.dk
 Tel.:	+45 3338 6700
 Find more information at:
-Web:	https://ices.dk/data/data-portals/Pages/Fish-stomach.aspx
+Web:	https://stomachdata.ices.dk/
 
  
 3. DATA SPECIFIC INFORMATION
-The Stomachdata website provides the user with the ability to query the ICES stomach database and download the data. 
+The Stomach content data website provides the user with the ability to query the ICES stomach database and download the data. 
  
 Note that additional data such as methods and QA may be available. To have access to the complete data set, the user can request this by specifying the provided code plus the extra information required.
 
@@ -30,9 +27,9 @@ ICES makes data available to users in an open, timely and easy way, but ICES rem
  - Data Users are obliged to inform ICES of any suspected problems in the data.
  - Data Users are encouraged to inform ICES of possible sources of other relevant data.
  The full ICES data policy and terms of use can be viewed at:
- https://ices.dk/marine-data/guidelines-and-policy/Pages/ICES-data-policy.aspx. 
+https://www.ices.dk/data/guidelines-and-policy/pages/default.aspx
 Data held at ICES are used for various assessments and working group purposes. The data guidelines and procedures for these can be viewed at: 
-https://ices.dk/marine-data/guidelines-and-policy/Pages/default.aspx
+https://www.ices.dk/data/guidelines-and-policy/pages/default.aspx
 
 5. TERMS OF USE: SOFTWARE 
 Software is available for use from the ICES website that is provided as an aid for data users to work with, analyse and convert data: 
@@ -42,21 +39,21 @@ The downloading and installation of software from https://www.ices.dk/ is at you
 
 
 6. DATA CITATION
-Data sources should be acknowledged by a citation. Detailed information and examples of citations can be found in ICES Data Policy: https://ices.dk/marine-data/guidelines-and-policy/Pages/ICES-data-policy.aspx.
+Data sources should be acknowledged by a citation. Detailed information and examples of citations can be found in ICES Data Policy: https://www.ices.dk/data/guidelines-and-policy/pages/default.aspx
 
 A minimum requirement citation would include the following:
-"ICES Stomach Dataset 2010, ICES, Copenhagen"  
+"ICES Stomach Dataset [Year accessed], ICES, Copenhagen, Denmark. https://stomachdata.ices.dk"  
 
-Please acknowledge the following data sources when using the data:
+Please acknowledge the following data sources when using the historical data:
 ICES Stomach Dataset 2010, ICES, Copenhagen
- ICES Cooperative Research Report No. 164 (http://info.ices.dk/products/cooperative.asp)
- ICES Cooperative Research Report No. 219 (http://info.ices.dk/products/cooperative.asp)
- IMARES (Institute for Marine Resources & Ecosystem Studies)
+ICES Cooperative Research Report No. 164 (http://info.ices.dk/products/cooperative.asp)
+ICES Cooperative Research Report No. 219 (http://info.ices.dk/products/cooperative.asp)
+IMARES (Institute for Marine Resources & Ecosystem Studies)
 
 7. METADATA
 Further details about the dataset and related services can be found at the metadata catalogue.
-ICES Datasets: https://gis.ices.dk/geonetwork/srv/eng/catalog.search#/search?facet.q=type%2Fdataset%26orgName%2FICES
-Services: https://gis.ices.dk/geonetwork/srv/eng/catalog.search#/search?facet.q=type%2Fservice
+ICES Datasets: https:https://gis.ices.dk/geonetwork/srv/eng/catalog.search#/search?query_string={"groupOwner":{"10":true},"resourceType":{"service":true}}
+ICES Services: https:https://gis.ices.dk/geonetwork/srv/eng/catalog.search#/search?query_string={"groupOwner":{"10":true},"resourceType":{"service":true}}
+Stomach content dataset: https://gis.ices.dk/geonetwork/srv/eng/catalog.search#/metadata/ae09780b-48d4-4bcd-85b1-602c9b2735dc
 
 
-- END OF FILE -
