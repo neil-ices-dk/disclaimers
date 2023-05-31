@@ -72,7 +72,7 @@ Please acknowledge the following data sources when using the data:
  MI, Ireland
  MRI, Iceland
  MSS, Scotland
- Th�nen Institute, Germany
+ Thünen Institute, Germany
  University of Maine, USA
 
 7. METADATA
