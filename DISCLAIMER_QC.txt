@@ -16,7 +16,7 @@ Web:	https://www.ices.dk/data/Pages/default.aspx
 
 3. DATA SPECIFIC INFORMATION
 
-ICES Quality Control checks descriptions are freely available for download from https://www.ices.dk/data/tools/Pages/quality-control.aspx
+ICES Quality Control checks are developed by ICES Data Centre, and are applied in data submission validation process in ICES thematic datasets. The checks and their descriptions are freely available for download from https://www.ices.dk/data/tools/Pages/quality-control.aspx as published by each thematic dataset.
 
 4. TERMS OF USE: DATA 
 
