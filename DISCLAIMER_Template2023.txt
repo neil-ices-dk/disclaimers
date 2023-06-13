@@ -1,12 +1,15 @@
-﻿Disclaimer new TXT template 2023
-This is the new version of the ICES Data disclaimer that should be attached to any data download.
-Note 1. In Section 3, make sure to add information with details specific to your project.
-Note 2. Section 4 refers to the generic ICES Data Policy and restricted biodiversity license. Projects with other restricted policies should add their own references instead. Projects with Public data only should change "Data provided from the website are classified as either 'Public' or 'Restricted’." to "Data provided from the website are classified as 'Public'." and remove 2 lines referring to the restricted data licenses
-Note 3. In Section 7, two generic metadata links are listed. In addition, separate projects should include project-specific metadata links, if available.
-Note 4. In Sections 1 and 6, similarly to the current template, some references require project-based adjustments, and some need dynamic download-specific referencing, which is most likely already implemented in the previous disclaimer version.
+### ﻿Disclaimer new TXT template 2023
+> This is the new version of the ICES Data disclaimer that should be attached to any data download.
+> Note 1. In Section 3, make sure to add information with details specific to your project.
+> Note 2. Section 4 refers to the generic ICES Data Policy and restricted biodiversity license. Projects with other restricted policies should add their own references instead. Projects with Public data only should change "Data provided from the website are classified as either 'Public' or 'Restricted’." to "Data provided from the website are classified as 'Public'." and remove 2 lines referring to the restricted data licenses
+> Note 3. In Section 7, two generic metadata links are listed. In addition, separate projects should include project-specific metadata links, if available.
+> Note 4. In Sections 1 and 6, similarly to the current template, some references require project-based adjustments, and some need dynamic download-specific referencing, which is most likely already implemented in the previous disclaimer version.
 	Project-specific references are: 'XXX dataset' and 'https://xxxdataset.ices.dk'
 	Download-specific references are: 'LAYERNAMEXXX', 'DATETIMEXXX', and 'AcknowledgeXXX'
+	
 ---------delete this line and everything above it----------
+
+
 DATA DISCLAIMER
 
 1. IMPORTANT
@@ -53,7 +56,7 @@ The downloading and use of any software from https://www.ices.dk/ grants you onl
 The downloading and installation of software from https://www.ices.dk/ is at your own risk. ICES undertakes every effort to ensure software is compatible with the latest windows operating system, or other systems as defined in specific readme or a software documentation file. ICES accepts no responsibility for the correct functioning and operation of software downloaded from https://www.ices.dk/, nor any incidental, special or consequential damages associated with downloading and installing software provided by ICES.
 
 6. DATA CITATION
-Data sources should be acknowledged by a citation. Detailed information and examples of citations can be found in ICES Data Policy: https://ices.dk/marine-data/guidelines-and-policy/Pages/ICES-data-policy.aspx.
+Data sources should be acknowledged by a citation. Detailed information and examples of citations can be found in ICES Data Policy: https://ices.dk/data/guidelines-and-policy/Pages/ICES-data-policy.aspx.
 A minimum requirement citation would include the following:
 “XXX dataset, YEAR. ICES, Copenhagen, Denmark. https://xxxdataset.ices.dk”  
 Please acknowledge the following data sources when using the data:
